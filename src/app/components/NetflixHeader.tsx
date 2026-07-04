@@ -165,7 +165,7 @@ export default function NetflixHeader({
                       </div>
                       <div>
                         <p className="text-xs text-zinc-100 font-medium">Memory Liked!</p>
-                        <p className="text-[10.5px] text-zinc-400">Sarah loved "Our First Date" photo gallery.</p>
+                        <p className="text-[10.5px] text-zinc-400">Gudi loved "Our First Date" photo gallery.</p>
                       </div>
                     </div>
                     
@@ -224,11 +224,11 @@ export default function NetflixHeader({
                     <p className="text-xs text-zinc-400 font-medium uppercase tracking-wider mb-2">Switch Profile</p>
                     <div className="space-y-2">
                       <div
-                        onClick={() => handleProfileSwitch("Sarah (Princess 👸)")}
+                        onClick={() => handleProfileSwitch("Gudi (Princess 👸)")}
                         className="flex items-center gap-2.5 p-2 rounded hover:bg-zinc-800 transition-colors cursor-pointer"
                       >
                         <div className="w-6 h-6 rounded bg-gradient-to-br from-pink-400 to-purple-600 flex items-center justify-center text-xs">👸</div>
-                        <span className="text-xs font-medium text-zinc-200">Sarah (Princess)</span>
+                        <span className="text-xs font-medium text-zinc-200">Gudi (Princess)</span>
                       </div>
                       
                       <div
