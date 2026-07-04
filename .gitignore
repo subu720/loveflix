@@ -1,5 +1,4 @@
 node_modules
-public/assets/videos/
 .env*
 dist/
 .DS_Store
